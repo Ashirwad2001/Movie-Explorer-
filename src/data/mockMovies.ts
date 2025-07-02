@@ -54,7 +54,7 @@ export const mockMovies: Movie[] = [
   {
     id: '6',
     title: 'Midnight Sun',
-    overview: 'A romantic comedy about a programmer who falls in love with an AI chatbot, questioning the nature of love and consciousness in the digital age.',
+    overview: 'Katie, a teenage girl with a rare genetic condition that makes sunlight deadly, lives a sheltered life. Her world changes when she meets Charlie and falls in love, hiding her illness while chasing moments of happiness in the darkness.',
     releaseDate: '2018-08-04',
     genres: ['Romance', 'Comedy'],
     posterUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpW3a5i6y4foiA2LKGdOTQK4_apKBqa7NbFQ&s',
